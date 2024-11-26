@@ -24,7 +24,6 @@ The Nether's Heart is both a curse and a blessing. Its shards, the **Mithrilite 
 
 The journey of **Mithrilite Corestone** from raw ore to ultimate resource reflects the intricate art of harnessing the Nether’s energy. Each step requires precision, skill, and a measure of bravery, as working with such a volatile material can lead to unforeseen consequences.
 
----
 
 ## **1. Mining Mithrilite Corestone**  
 Found deep within the Nether’s dangerous landscapes, **Mithrilite Corestone** is one of the rarest ores in existence. It can only be mined with a **diamond pickaxe or better**, and its deposits are often surrounded by hostile mobs or buried within treacherous lava lakes.  
