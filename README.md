@@ -31,7 +31,9 @@ Found deep within the Nether’s dangerous landscapes, **Mithrilite Corestone** 
 When mined, the ore itself appears unassuming, but when exposed to extreme heat, its true nature begins to reveal itself.
 
 ## **2. Smelting into Mithrilite Core Dust**  
-Mithrilite Corestone is smelted in a furnace or blast furnace to produce **Mithrilite Core Dust**. This shimmering, crystalline powder is the essence of the Corestone’s energy, concentrated into a more manageable form. Handling the dust is said to feel warm, almost alive, as if it holds the Nether’s heartbeat within.  
+Mithrilite Corestone is smelted in a furnace or blast furnace to produce **Mithrilite Core Dust**. This shimmering, crystalline powder is the essence of the Corestone’s energy, concentrated into a more manageable form. Handling the dust is said to feel warm, almost alive, as if it holds the Nether’s heartbeat within. 
+
+![Smelting into Mithrilite Core Dust](https://cdn.discordapp.com/attachments/1308803757596737580/1310842008717496381/NewFurnaceGUI.gif?ex=6746b041&is=67455ec1&hm=ca71e153fd15ac9ff3d4b98865b18f90551212747fcce5bfec259d37b3393fbe&)
 
 ## **3. Forging Forged Coreshards**  
 Using a crafting table or an anvil, **Mithrilite Core Dust** can be fused and compressed into **Forged Coreshards**. This process mimics the ancient fusion reactions of the Nether’s core, requiring skill and determination to complete.  
