@@ -38,13 +38,18 @@ Mithrilite Corestone is smelted in a furnace or blast furnace to produce **Mithr
 ## **3. Forging Forged Coreshards**  
 Using a crafting table or an anvil, **Mithrilite Core Dust** can be fused and compressed into **Forged Coreshards**. This process mimics the ancient fusion reactions of the Nether’s core, requiring skill and determination to complete.  
 - Forged Coreshards are metallic and unyielding, imbued with the Nether’s primal energy.  
-- These shards are highly sought after, as they are the foundation for creating the strongest tools, armor, and structures in the game.  
+- These shards are highly sought after, as they are the foundation for creating the strongest tools, armor, and structures in the game.
+  
+![Forging Forged Coreshards](https://cdn.discordapp.com/attachments/1308803757596737580/1310842114556559410/GUI_Crafting_Table.png?ex=6746b05a&is=67455eda&hm=86e9a7b5de3c61e8be3f5dba715bde4c7bb55ee6640c6e93ba244cb1a87ddf37&)
 
 ## **4. Crafting Mithricored Gear**  
 Forged Coreshards are the key to **Mithricored tools and armor**, the most powerful equipment in existence. Each item crafted with Forged Coreshards is infused with durability and strength, surpassing even Netherite.  
 - **Mithricored Sword**: Cuts through enemies with unparalleled sharpness and speed.  
 - **Mithricored Pickaxe**: Mines faster than any other tool, capable of breaking even the toughest blocks.  
-- **Mithricored Armor**: Provides unmatched protection and resistance to damage, making the wearer nearly invincible.  
+- **Mithricored Armor**: Provides unmatched protection and resistance to damage, making the wearer nearly invincible.
+
+![Mithricored Sword](https://cdn.discordapp.com/attachments/1308803757596737580/1310842293011349555/Screenshot_2024-11-26_104540-removebg-preview_1.png?ex=6746b084&is=67455f04&hm=e6676bc083b810bb05187e8a96467389ef64a3f190fcd3f50bb7ce970427e00e&) 
+![Mithricored Armor](https://cdn.discordapp.com/attachments/1308803757596737580/1310842196001292328/GUI_Crafting_Table_1.png?ex=6746b06d&is=67455eed&hm=d0b7897033f3779b69f2c72926ae199b8a71e03785a4c56a42cedc0a32fe6237&)
 
 This gear is not only practical but a status symbol, showing the world that the player has conquered the Nether’s challenges.
 
