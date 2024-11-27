@@ -277,8 +277,22 @@ Just exlposions, don't worry about the lag XD
 
 <details>
 
-<summary>XII. Custom Items/Abilities/Powers</summary>
+<summary>XII. Custom Resource Packs</summary>
 
 ## W.I.P.
 
 </details>
+
+<details>
+
+<summary>XIII. Custom Items/Abilities/Powers</summary>
+
+## W.I.P.
+
+</details>
+
+---
+
+This is just a glimpse of what this smp has to offer. With countless additional features and hidden surprises, there’s always something new to discover. 
+
+We are committed to delivering a dynamic and engaging experience, with regular updates and enhancements to ensure the server continues to evolve.
