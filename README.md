@@ -12,6 +12,8 @@
 
 MI CORE SMP takes Minecraft to the next level with a host of custom features that go far beyond the vanilla experience. From unique powers and abilities to exclusive bosses, weapons, and gear, this isn’t just Minecraft—it’s a whole new adventure.
 
+These are in **no** specific order.
+
 <details>
 
 <summary>I. Added Mithricore (Custom NEW Ore) & LORE (The Nether Heart)</summary>
@@ -127,5 +129,95 @@ To spawn Glarciaron, players must craft the Glarciaron Spawn Egg.
 When **Glarciaron** falls, it drops four rare **Ice Chunks**, crystallized fragments of its frozen core infused with its ancient power. These chunks, glowing faintly with the essence of eternal winter, are essential for crafting the legendary **IceBound Boots**. Players must collect all four and combine them with other materials at a crafting table to forge the boots. Once crafted, the **IceBound Boots** grant incredible speed and the ability to freeze water beneath the wearer’s feet, creating a frosty path wherever they go. These icy relics are a testament to the wielder’s triumph over the Frost Guardian, holding both its strength and a reminder of the perilous battle it took to earn them.
 
 ![Rewards of the Icy Conqueror](https://cdn.discordapp.com/attachments/1309489058761674771/1311199871172214814/GUI_Crafting_Table_2.png?ex=6747fd8a&is=6746ac0a&hm=0f878987d7994baa0f925b712e064eddfe38792359ca82c210ea787d742e0861&)
+
+</details>
+
+<details>
+
+<summary>IV. Added Craftable Enchanted Golden Apples, Tridents & Elytras</summary>
+
+## Craftable Enchanted Golden Apple
+
+![Gapple](https://cdn.discordapp.com/attachments/1309489058761674771/1311342913539801229/GUI_Crafting_Table.gif?ex=674882c2&is=67473142&hm=8053f28dff5b1e3950e45b33b99ba50405f03ef622aa2bc12e036f34a43005e0&)
+
+
+## Craftable Trident
+
+![Craftable Trident](https://cdn.discordapp.com/attachments/1309489058761674771/1311343778845687848/GUI_Crafting_Table_2.png?ex=67488390&is=67473210&hm=5ff422df35236e39a0084021e3f1b003a83a6a14329fb09cfec26f8fe3fd19b4&)
+
+
+## Craftable Elytra
+
+![Craftable Elytra](https://cdn.discordapp.com/attachments/1309489058761674771/1311343951076261948/GUI_Crafting_Table_3.png?ex=674883b9&is=67473239&hm=9eb1a456aecf9f419403f231ddb78e349a32ba10fbea092e5be3d32e4415c175&)
+
+</details>
+
+
+<details>
+
+<summary>V. Added PickMeUp (Carry mobs around gently or *yeet* them away)</summary>
+
+## PickMeUp Plugin
+
+**Can be used in the transportation of mobs.**
+
+- To pick up an entity you just need to sneak and right click on an entity with an empty hand.
+
+- To let the entity down sneak for a short time.
+
+- To throw keep sneaking. A throwbar will pop up.
+
+- You can cancel the throw process with a right click.
+
+**The following mobs can be picked up (only):   - VILLAGER, PIG, CHICKEN, COW, RABBIT, WOLF, BOAT, SHEEP, PARROT;**
+
+
+</details>
+
+
+<details>
+
+<summary>VI. Added Action Health (Hearts Display)</summary>
+
+## Action Health
+
+![ActionHealth](https://cdn.discordapp.com/attachments/1309489058761674771/1311348193270960148/77a753a3753ee2059b26bcd92b4c7a7d435c2a3e.png?ex=674887ac&is=6747362c&hm=87ea08acd64e3aebb21a363df29de5d6bda2f655260e26454d93a7006558a4ee&)
+
+**Also works for players and bosses!**
+
+</details>
+
+
+<details>
+
+<summary>VII. Chat Feelings (Emotes)</summary>
+
+## Chat Feelings
+
+
+| **Command**       | **Description**                          |
+|--------------------|------------------------------------------|
+| `/hug`            | Hug another player.                      |
+| `/slap`           | Playfully slap another player.           |
+| `/poke`           | Poke another player.                     |
+| `/highfive`       | Give another player a high five.         |
+| `/yell`           | Yell at another player.                  |
+| `/facepalm`       | Show disbelief or frustration.           |
+| `/bite`           | Playfully bite another player.           |
+| `/lick`           | Lick another player.                     |
+| `/snuggle`        | Snuggle with another player.             |
+| `/shake`          | Shake another player.                    |
+| `/stab`           | Stab another player (playfully).         |
+| `/kiss`           | Kiss another player.                     |
+| `/punch`          | Punch another player (playfully).        |
+| `/murder`         | Pretend to murder another player.        |
+| `/dab`            | Perform a dab.                           |
+| `/boi`            | Express disbelief with a "boi."          |
+| `/cry`            | Cry at or with another player.           |
+| `/pat`            | Pat another player on the back.          |
+| `/scorn`          | Show scorn towards another player.       |
+| `/stalk`          | Pretend to stalk another player.         |
+| `/sus`            | Accuse another player of being suspicious. |
+
 
 </details>
