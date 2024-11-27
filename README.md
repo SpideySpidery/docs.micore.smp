@@ -223,3 +223,24 @@ When **Glarciaron** falls, it drops four rare **Ice Chunks**, crystallized fragm
 
 
 </details>
+
+
+<details>
+
+<summary>VIII. GSit (Sit, Lay, Bellyflop, Spin & Crawl)</summary>
+
+### GSit
+
+Sit on every block with `/sit`
+
+Crawl on the ground with `/crawl`
+
+Lay or Bellyflop on every block with `/lay` or `/bellyflop`
+
+Spin around with `/spin`
+
+Simply right click on top of a seat (stair, slab or carpet) to sit there
+
+Click (right) on another Player to sit on them and stack up! 
+
+</details>
