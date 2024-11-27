@@ -14,6 +14,8 @@ MI CORE SMP takes Minecraft to the next level with a host of custom features tha
 
 These are in **no** specific order.
 
+**To know more about a specific feature, click (press) on it (the headings below) to get a extended description.**
+
 <details>
 
 <summary>I. Added Mithricore (Custom NEW Ore) & LORE (The Nether Heart)</summary>
