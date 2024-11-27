@@ -120,7 +120,7 @@ But beware: disturb the balance, and **Glarciaron** will rise again—**hungrier
 
 To spawn Glarciaron, players must craft the Glarciaron Spawn Egg.
 
-
+![Fighting this Beast](https://cdn.discordapp.com/attachments/1309489058761674771/1311326705025024020/GUI_Crafting_Table.png?ex=674873a9&is=67472229&hm=63c4ba2294b5fed3b0815b7f20efd378b2bdfb177ab3f06cdfe11574e45796ea&)
 
 # Rewards of the Icy Conqueror
 
