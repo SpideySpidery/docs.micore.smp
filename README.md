@@ -229,7 +229,7 @@ When **Glarciaron** falls, it drops four rare **Ice Chunks**, crystallized fragm
 
 <summary>VIII. GSit (Sit, Lay, Bellyflop, Spin & Crawl)</summary>
 
-### GSit
+## GSit
 
 Sit on every block with `/sit`
 
@@ -242,5 +242,43 @@ Spin around with `/spin`
 Simply right click on top of a seat (stair, slab or carpet) to sit there
 
 Click (right) on another Player to sit on them and stack up! 
+
+</details>
+
+
+<details>
+
+<summary>IX. Fancy Explosions</summary>
+
+## Fancy Physics
+
+![BOOOM](https://cdn.discordapp.com/attachments/1309489058761674771/1311366010627948584/7ef28053a658f0f73bcafd2fdb858956ed73e786.gif?ex=67489844&is=674746c4&hm=2d5d8fe6bcfd8273a9b3d4cf7816d164d5eea3091f675caa3c39b5ebed6a7fa0&)
+
+Just exlposions, don't worry about the lag XD
+
+</details>
+
+
+<details>
+
+<summary>X. Graves</summary>
+
+## W.I.P.
+
+</details>
+
+<details>
+
+<summary>XI. Blood & Gore</summary>
+
+## W.I.P.
+
+</details>
+
+<details>
+
+<summary>XII. Custom Items/Abilities/Powers</summary>
+
+## W.I.P.
 
 </details>
