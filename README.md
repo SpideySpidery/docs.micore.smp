@@ -24,6 +24,18 @@ This SMP was initially designed for **animators**, allowing them to bring their 
 
 
 <details>
+<summary> Season 1 - Lore/Story</summary>
+
+This is the only recorded lore/story video about MI CORE S1. It's not entirely complete, but thats all we have, the rest is history!
+
+[![yt](https://cdn.discordapp.com/attachments/1309489058761674771/1311525025089716234/New_Project_21.png?ex=67492c5c&is=6747dadc&hm=3b4d7b57b9828994b3c3f3fca19ea16e5eff38fd579901d421f264354e952752&)](https://youtu.be/u0O2tvepDiY)
+
+</details>
+
+
+
+
+<details>
 
 <summary> Official Season 1 Render by XxFlame488xX (Click here)</summary>
 
