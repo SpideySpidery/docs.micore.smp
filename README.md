@@ -333,6 +333,11 @@ Just exlposions, don't worry about the lag XD
 </details>
 
 
+This is just a glimpse of what this smp has to offer. With countless additional features and hidden surprises, there’s always something new to discover. 
+
+We are committed to delivering a dynamic and engaging experience, with regular updates and enhancements to ensure the server continues to evolve.
+
+
 ## Mods (Client-Side) & Resource Pack
 
 These client-side mods and texture packs are **not included on the server** but are **suggested for the best gameplay experience**. Their use is entirely optional. 
@@ -344,6 +349,4 @@ These recommendations aim to complement the MI CORE SMP experience and elevate y
 
 ---
 
-This is just a glimpse of what this smp has to offer. With countless additional features and hidden surprises, there’s always something new to discover. 
-
-We are committed to delivering a dynamic and engaging experience, with regular updates and enhancements to ensure the server continues to evolve.
+**W.I.P.**
