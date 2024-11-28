@@ -58,7 +58,9 @@ Now, here we are, MI CORE Season 2 **REVAMPED**!
 ## Info
 
 
-**W.I.P.**
+The server runs using [aternos](https://aternos.org/:en/) on the [minecraft version 1.20.1](https://www.minecraft.net/en-us/article/minecraft--java-edition-1-20-1) with [optifine](https://optifine.net/home) or it's [fabric alternatives](https://cdn.discordapp.com/attachments/1309489058761674771/1311566889788637225/image.png?ex=6749535a&is=674801da&hm=004051c6fd544aeb49fe2ce6ff1573fdedbac59424520bcd52a63b5ff73f852e&) being required.
+
+Further information is provided on the Discord Server.
 
 
 ## Feature Contents
@@ -417,4 +419,15 @@ These recommendations aim to complement the MI CORE SMP experience and elevate y
 
 ---
 
-**W.I.P.**
+We’d love to have you join our **MI Core SMP** community on Discord! 🌟 
+
+It’s the heart of everything MI Core, where you’ll find the latest updates, events, and a vibrant community of animators and creators.  
+
+
+[![minecraft_titlel (2)](https://github.com/user-attachments/assets/f6ac3fab-63a6-437c-b190-18b796a62342)](https://discord.gg/WEYkcEexEV)
+
+
+
+
+
+**Important:** Discord is the **only way** to join the SMP. So, don’t miss out—click the link, hop in, and let’s create something extraordinary together! 
