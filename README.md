@@ -46,7 +46,7 @@ Now, here we are, MI CORE Season 2 **REVAMPED**!
 ## Info
 
 
-
+**W.I.P.**
 
 
 ## Feature Contents
@@ -332,16 +332,17 @@ Just exlposions, don't worry about the lag XD
 
 </details>
 
----
-
 
 ## Mods (Client-Side) & Resource Pack
 
 These client-side mods and texture packs are **not included on the server** but are **suggested for the best gameplay experience**. Their use is entirely optional. 
 
-bwah w.i.p.
+**W.I.P.**
 
 These recommendations aim to complement the MI CORE SMP experience and elevate your adventure without altering the core gameplay.
+
+
+---
 
 This is just a glimpse of what this smp has to offer. With countless additional features and hidden surprises, there’s always something new to discover. 
 
