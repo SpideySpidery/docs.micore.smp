@@ -316,7 +316,13 @@ Just exlposions, don't worry about the lag XD
 
 <summary>X. Graves</summary>
 
-## W.I.P.
+## AxGraves
+
+The server creates a **lootable grave (or death chest)** when a player dies. The grave stores the player's items and can be retrieved later, making it easier to recover from death without losing all of your gear.
+
+![Graves](https://cdn.discordapp.com/attachments/1309489058761674771/1311556592239513642/image.png?ex=674949c3&is=6747f843&hm=2769a84f33281c2e26623b9b748344b2e93d544a29885a191f4d2e6494626d74&)
+
+Make sure that **these graves are deleted upon server restart**, meaning you **must collect your items** from your grave **before the server shuts down** or you will lose everything inside it. So be sure to retrieve your belongings promptly to avoid losing them forever!
 
 </details>
 
@@ -324,7 +330,17 @@ Just exlposions, don't worry about the lag XD
 
 <summary>XI. Blood & Gore</summary>
 
-## W.I.P.
+## Blood N' Particles & Torturable Healthbars
+
+When players are hit, **blood splatter effects** and **particle visuals** add a more dynamic feel to combat. The size of the splatter increases with stronger attacks, and these effects can interact with the environment, leaving marks on the ground and nearby blocks, adding a layer of detail to each encounter. Don't worry about the lag, these splatters automatically disappear after a short amount of time.
+
+![Blood Splatter](https://cdn.discordapp.com/attachments/1309489058761674771/1311533762307293194/blood_splashes.png?ex=67493480&is=6747e300&hm=48e036bee203c851953ade705f7c3b632254fb17713814fdb9bead97d3dc7304&)
+
+As mobs take damage, their appearance gradually changes, with their skin becoming more **bloodied** and **distressed**. This visual cue helps players track the toll the battle is taking on their opponent, creating a more immersive experience as the mob's condition worsens.
+
+![Bloodier](https://cdn.discordapp.com/attachments/1309489058761674771/1311537190613946419/e7e59bb50d9c86215a8eba91d62caafdc5f84872.gif?ex=674937b1&is=6747e631&hm=5b7a1a21962e1bb710a3591789fc0e97b2671b01ab8fb270aa9b9541b0920dd5&)
+
+Together, these effects—**blood splatters**, **particles**, and the changing appearance of mobs—create a more engaging combat experience, allowing players to see and feel the combat.
 
 </details>
 
@@ -332,7 +348,45 @@ Just exlposions, don't worry about the lag XD
 
 <summary>XII. Custom Resource Packs</summary>
 
-## W.I.P.
+## Custom Resource Packs
+
+The **MI CORE SMP** server stands out with its incredible use of **resource packs**, offering a variety of **CIT (Custom Item Textures)**, custom **models**, **sound effects**, and more, all designed to enhance the immersion and uniqueness of the gameplay experience. These resource packs add a fresh layer of creativity, allowing items to visually match their function or provide an entirely new aesthetic. 
+
+In addition to custom content, the server celebrates the seasons with **seasonal updates**, such as special events for **Halloween**, **Christmas**, and other holidays. During these times, players can expect themed items, models, and even sound effects that bring festive excitement to the world of MI CORE SMP. These updates help keep the game feeling fresh and engaging, with something new to look forward to throughout the year.
+
+<details>
+
+<summary>Click here to view the Halloween Gallery</summary>
+
+![Packtober Remastered 1](https://resourcepack.net/fl/images/2023/11/Packtober-Remastered-Resource-Pack-for-minecraft-textures-1.jpg)
+![Packtober Remastered 2](https://resourcepack.net/fl/images/2023/11/Packtober-Remastered-Resource-Pack-for-minecraft-textures-2.jpg)
+![Packtober Remastered 3](https://resourcepack.net/fl/images/2023/11/Packtober-Remastered-Resource-Pack-for-minecraft-textures-3.jpg)
+![Packtober Remastered 4](https://resourcepack.net/fl/images/2023/11/Packtober-Remastered-Resource-Pack-for-minecraft-textures-4.jpg)
+![Packtober Remastered 5](https://resourcepack.net/fl/images/2023/11/Packtober-Remastered-Resource-Pack-for-minecraft-textures-5.jpg)
+![Packtober Remastered 6](https://resourcepack.net/fl/images/2023/11/Packtober-Remastered-Resource-Pack-for-minecraft-textures-6.jpg)
+![Packtober Remastered 7](https://resourcepack.net/fl/images/2023/11/Packtober-Remastered-Resource-Pack-for-minecraft-textures-7.jpg)
+![Packtober Remastered 8](https://resourcepack.net/fl/images/2023/11/Packtober-Remastered-Resource-Pack-for-minecraft-textures-8.jpg)
+![Packtober Remastered 9](https://resourcepack.net/fl/images/2023/11/Packtober-Remastered-Resource-Pack-for-minecraft-textures-9.jpg)
+![Packtober Remastered 11](https://resourcepack.net/fl/images/2023/11/Packtober-Remastered-Resource-Pack-for-minecraft-textures-11.jpg)
+![Packtober Remastered 12](https://resourcepack.net/fl/images/2023/11/Packtober-Remastered-Resource-Pack-for-minecraft-textures-12.jpg)
+![Packtober Remastered 13](https://resourcepack.net/fl/images/2023/11/Packtober-Remastered-Resource-Pack-for-minecraft-textures-13.jpg)
+
+This texture pack stayed all october in season 2.
+
+</details>
+
+<details>
+
+<summary>Click here to view the Christmas Gallery</summary>
+
+![Christmas Resource Pack Image 1](https://cdn.modrinth.com/data/GVW3MpmB/images/c6f6db07b219a5bf5e4e4299e2ffcecb6380c062.jpeg)
+![Christmas Resource Pack Image 2](https://cdn.modrinth.com/data/GVW3MpmB/images/2e0bbb3cbe783845b6148a9d23e12804a29d8384.png)
+![Christmas Resource Pack Image 3](https://cdn.modrinth.com/data/GVW3MpmB/images/d2f905a2fc7ce04421d0edde09a784e185b8effe.jpeg)
+![Christmas Resource Pack Image 4](https://cdn.modrinth.com/data/GVW3MpmB/images/f826c4f22e24494e0e07346ac69c3676bce1ea78.png)
+
+This texture pack hasn't been on the MI CORE SMP yet, but is decided to be added in the start of Season 2 Revamp.
+
+</details>
 
 </details>
 
@@ -340,7 +394,9 @@ Just exlposions, don't worry about the lag XD
 
 <summary>XIII. Custom Items/Abilities/Powers</summary>
 
-## W.I.P.
+## Custom Items/Abilities/Powers inside of MI CORE
+
+In **MI CORE SMP**, players can submit their custom **item**, **power**, or **ability** requests based on their in-game **skin** or **character design** via the official Discord server. If the request is fair and aligns with the theme of the server, I will do my best to bring it to life within Minecraft. The idea is to make sure that the requested abilities or items connect to the player's **skin** or **character** in a meaningful way—whether through **appearance, traits, or backstory**. This makes each request unique and immersive, allowing everyone to experience the power or item that best suits their persona in the world of MI CORE SMP. If you have a cool idea or want to enhance your character, don't hesitate to share it!
 
 </details>
 
@@ -354,7 +410,7 @@ We are committed to delivering a dynamic and engaging experience, with regular u
 
 These client-side mods and texture packs are **not included on the server** but are **suggested for the best gameplay experience**. Their use is entirely optional. 
 
-**W.I.P.**
+**W.I.P.** - Will be added later.
 
 These recommendations aim to complement the MI CORE SMP experience and elevate your adventure without altering the core gameplay.
 
