@@ -6,6 +6,47 @@
 **Journey starts here—are you ready to write your story?**
 
 
+## Origins
+
+The concept originated in **February 2024** with an RPG game idea called **"MI Core,"** which focused on **custom abilities tailored to each character**. Separately, by **May 2024**, a **Minecraft server** was created as a **birthday party space** for my friends and me.
+
+<details>
+
+<summary> A screenie of my birthday party (Click here)</summary>
+
+![May 2024](https://cdn.discordapp.com/attachments/1309489058761674771/1311500702735925278/eee.png?ex=674915b6&is=6747c436&hm=2c05327536d417ca715ea1e9e26cd9caeb1a10281a821f3d3de423c8deb89269&)
+
+</details>
+
+Over time, it transitioned into an **SMP** with over 50 members, retaining the original concept of character-based abilities, hence the name. 
+
+This SMP was initially designed for **animators**, allowing them to bring their **characters' powers** from animations into Minecraft. However, on **June 4th**, the first **non-animator** player, Pigbox, joined, marking a turning point and expanding the idea to a broader, **community-driven base**. 
+
+
+<details>
+
+<summary> Official Season 1 Render by XxFlame488xX (Click here)</summary>
+
+![S1](https://cdn.discordapp.com/attachments/1309489058761674771/1311515537020424243/SPOILER_MI_CORE_Server_AE2_00749_1.png?ex=67492386&is=6747d206&hm=69bdc0450ba678d4d2939be98816c83b05568ed8bbfc38ced25d051debbe5055&)
+
+</details>
+
+When **Season 1** concluded, **Season 2**, started as a banger, opened its doors to **all Minecraft players**. Unfortunately, due to a lack of proper promotion, Season 2 fell into obscurity. 
+
+<details>
+
+<summary> Official Season 2 Render by reever (Click here)</summary>
+
+![S2](https://cdn.discordapp.com/attachments/1309489058761674771/1311515536110129202/mi_core_00000_1.png?ex=67492386&is=6747d206&hm=09cce7c77d0c0c54b529918c95658558a9b7ea0b81ee5556dbd2c62254508ed6&)
+
+</details>
+
+Now, here we are, MI CORE Season 2 **REVAMPED**!
+
+## Info
+
+
+
 
 
 ## Feature Contents
@@ -292,6 +333,15 @@ Just exlposions, don't worry about the lag XD
 </details>
 
 ---
+
+
+## Mods (Client-Side) & Resource Pack
+
+These client-side mods and texture packs are **not included on the server** but are **suggested for the best gameplay experience**. Their use is entirely optional. 
+
+bwah w.i.p.
+
+These recommendations aim to complement the MI CORE SMP experience and elevate your adventure without altering the core gameplay.
 
 This is just a glimpse of what this smp has to offer. With countless additional features and hidden surprises, there’s always something new to discover. 
 
